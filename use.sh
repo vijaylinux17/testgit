@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ping -c 4 52.14.55.29 > /dev/null
+ping -c 4 18.221.242.229 > /dev/null
 if [ $? -ne 0 ]
 then
 echo "server not reachabele"
